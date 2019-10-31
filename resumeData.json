@@ -1,0 +1,99 @@
+{
+  "main": {
+    "name":"Talha Ashraf",
+    "occupation":"Web Engineer",
+    "description":"",
+    "image":"profilepic.jpg",
+    "bio":"",
+    "contactmessage":"Get In Touch",
+    "email": "Talhaashraf81@gmail.com",
+    "phone": "+923165583804",
+    "address":{
+      "city":"Chakwal,Pakistan"
+    },
+    "website": "https://Talha-Ashraf420.github.io",
+    "resumedownload":"https://www.overleaf.com/project/5db9b12f0818c70001b71dd7",
+    "social":[
+      {
+        "name":"github",
+        "url":"https://github.com/Talha-Ashraf420",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com/talha.ashraf81@outlook.com",
+        "className":"fa fa-skype"
+      },
+      {
+        "name":"facebook",
+        "url":"https://web.facebook.com/talhaashraf520",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/talhaashraf81",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/talha-ashraf-901845136",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/talha_ashraf_420",
+        "className":"fa fa-instagram"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Arid Agriculture University Rawalpindi ",
+        "degree":"BS CS",
+        "graduated":" Soon ",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"SenhoIT Solutions",
+        "title":"Web Engineer",
+        "years":"Sep 2019 - Present",
+        "description":"Work on different products of Travel Resort of America including MSS (Angular.js), Express Screen (Angular 7), MongoAPI,  and SenhoIT Product , Quiz Guide (Angular full stack generator) An online quiz conducting system."
+      }
+
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"70%"
+      },
+      {
+        "name":"AngularJS",
+        "level":"90%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Be the change that you wish to see in the world.",
+        "user":"Mahatma Gandhi"
+      }
+    ]
+  }
+}
